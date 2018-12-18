@@ -87,3 +87,106 @@ wayou.vscode-todo-highlight
 webstp.extension-manager
 xabikos.JavaScriptSnippets
 Zignd.html-css-class-completion
+
+
+-----------------------------
+
+$ code --list-extensions | xargs -L 1 echo code --install-extension
+
+code --install-extension aaron-bond.better-comments
+code --install-extension abierbaum.vscode-file-peek
+code --install-extension abusaidm.html-snippets
+code --install-extension adelphes.google-search-ext
+code --install-extension alefragnani.Bookmarks
+code --install-extension alefragnani.numbered-bookmarks
+code --install-extension alexiv.vscode-angular2-files
+code --install-extension AndersEAndersen.html-class-suggestions
+code --install-extension angelgonzalez.loremzombie
+code --install-extension Angular.ng-template
+code --install-extension bibhasdn.git-easy
+code --install-extension bradgashler.htmltagwrap
+code --install-extension cdsama.tortoise-svn-for-vscode
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension cyrilletuzi.angular-schematics
+code --install-extension davidbabel.vscode-simpler-icons
+code --install-extension dkundel.vscode-npm-source
+code --install-extension doggy8088.angular-extension-pack
+code --install-extension donjayamanne.githistory
+code --install-extension DSKWRK.vscode-generate-getter-setter
+code --install-extension ecmel.vscode-html-css
+code --install-extension EditorConfig.EditorConfig
+code --install-extension eg2.tslint
+code --install-extension eg2.vscode-npm-script
+code --install-extension eiminsasete.apacheconf-snippets
+code --install-extension esbenp.prettier-vscode
+code --install-extension felixfbecker.php-debug
+code --install-extension felixfbecker.php-intellisense
+code --install-extension felixfbecker.php-pack
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension GregorBiswanger.json2ts
+code --install-extension HookyQR.beautify
+code --install-extension huizhou.githd
+code --install-extension IBM.output-colorizer
+code --install-extension ikappas.phpcs
+code --install-extension infinity1207.angular2-switcher
+code --install-extension jasonnutter.search-node-modules
+code --install-extension jerky676.trumpsum
+code --install-extension joelday.docthis
+code --install-extension johnpapa.angular-essentials
+code --install-extension johnpapa.Angular2
+code --install-extension johnpapa.winteriscoming
+code --install-extension johnstoncode.svn-scm
+code --install-extension juniormucciolo.drupal-7-snippets
+code --install-extension junstyle.php-cs-fixer
+code --install-extension jzarzoso.break-from-comma
+code --install-extension k--kato.intellij-idea-keybindings
+code --install-extension kdcro101.typescript-code-navigator
+code --install-extension krizzdewizz.refactorix
+code --install-extension linyang95.php-symbols
+code --install-extension loiane.ts-extension-pack
+code --install-extension marcostazi.VS-code-drupal
+code --install-extension MariusAlchimavicius.json-to-ts
+code --install-extension mblode.twig-language-2
+code --install-extension MehediDracula.php-namespace-resolver
+code --install-extension Mikael.Angular-BeastCode
+code --install-extension mrmlnc.vscode-apache
+code --install-extension MS-CEINTL.vscode-language-pack-es
+code --install-extension ms-vscode.typescript-javascript-grammar
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension natewallace.angular2-inline
+code --install-extension neilbrayfield.php-docblocker
+code --install-extension oysun.Lodash
+code --install-extension paragdiwan.gitpatch
+code --install-extension pauloamgomes.drupal7-hooks-snippets
+code --install-extension PKief.material-icon-theme
+code --install-extension pmneo.tsimporter
+code --install-extension quicktype.quicktype
+code --install-extension rbbit.typescript-hero
+code --install-extension rifi2k.format-html-in-php
+code --install-extension ritwickdey.live-sass
+code --install-extension ritwickdey.LiveServer
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension robinbentley.sass-indented
+code --install-extension RoscoP.ActiveFileInStatusBar
+code --install-extension Shan.code-settings-sync
+code --install-extension Shawn.file-name-search
+code --install-extension spook.easysass
+code --install-extension stringham.move-ts
+code --install-extension thekalinga.bootstrap4-vscode
+code --install-extension third774.hipsum
+code --install-extension tomphilbin.lodash-snippets
+code --install-extension Tyriar.lorem-ipsum
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension webstp.extension-manager
+code --install-extension xabikos.JavaScriptSnippets
+code --install-extension Zignd.html-css-class-completion
+
+
+Linux/Mac:
+
+cat extensions.list | xargs -L1 code --install-extension
+
+
+
+
