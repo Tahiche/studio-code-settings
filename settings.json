@@ -1,0 +1,39 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "htmltagwrap.tag": "div",
+
+    "extension-manager.extensions": [
+        "alefragnani.Bookmarks",
+        "alefragnani.numbered-bookmarks"
+    ],
+    "workbench.panel.location": "bottom",
+    "git.autofetch": true,
+    "vsicons.projectDetection.disableDetect": true,
+    "phpcs.standard": "Drupal,DrupalPractice",
+    "php.validate.executablePath": "C:/MAMP/bin/php/php7.0.0/php.exe",
+    "easysass.compileAfterSave": false,
+    "easysass.excludeRegex": "_*",
+
+    "liveSassCompile.settings.includeItems":  [
+      "public/profiles/everis_blog/themes/eve_blog_theme/scss/main.scss",
+      "profiles/everis_blog/themes/eve_blog_theme/scss/main.scss",
+],
+"liveSassCompile.settings.generateMap": true,
+"liveSassCompile.settings.formats": [
+    {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "~/../css/"
+    },
+    // More Complex
+    {
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "~/../css/"
+    }
+],
+"php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
+"php-cs-fixer.lastDownload": 1545122335850,
+"sync.gist": "82884b41b05583e2cc5b6623c7969f62",
+    
+}
