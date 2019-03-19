@@ -1,0 +1,113 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.7
+--------------------
+GitHub Token: a0c9085f782a0a89c658fd830a2691e4ae85b0c7
+GitHub Gist: 82884b41b05583e2cc5b6623c7969f62
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  ActiveFileInStatusBar v1.0.3
+  Angular-BeastCode v7.2.5
+  angular-essentials v0.5.1
+  angular-extension-pack v7.2.0
+  angular-schematics v1.22.0
+  Angular2 v7.0.1
+  angular2-inline v0.0.17
+  angular2-switcher v0.2.0
+  apacheconf-snippets v1.2.0
+  auto-rename-tag v0.0.15
+  beautify v1.4.9
+  better-comments v2.0.3
+  Bookmarks v10.3.0
+  bootstrap4-vscode v6.1.0
+  bracket-pair-colorizer v1.0.61
+  break-from-comma v1.1.6
+  code-settings-sync v3.2.7
+  debugger-for-chrome v4.11.3
+  docthis v0.7.1
+  drupal-7-snippets v0.0.7
+  drupal7-hooks-snippets v0.0.2
+  EditorConfig v0.13.0
+  extension-manager v0.0.5
+  file-name-search v0.0.4
+  format-html-in-php v1.5.2
+  git-easy v1.11.0
+  githd v2.1.0
+  githistory v0.4.6
+  gitpatch v0.2.1
+  google-search-ext v0.2.1
+  hipsum v1.0.7
+  html-class-suggestions v1.0.7
+  html-css-class-completion v1.18.0
+  html-snippets v0.2.1
+  htmltagwrap v0.0.7
+  intellij-idea-keybindings v0.2.31
+  JavaScriptSnippets v1.7.2
+  json-to-ts v1.5.5
+  json2ts v0.0.6
+  lit-html v1.11.0
+  live-sass v3.0.0
+  LiveServer v5.5.1
+  Lodash v1.0.0
+  lodash-snippets v1.0.0
+  lorem-ipsum v1.2.0
+  loremzombie v0.0.1
+  material-icon-theme v3.6.3
+  move-ts v1.11.3
+  ng-template v0.1.11
+  numbered-bookmarks v6.1.1
+  output-colorizer v0.1.2
+  path-intellisense v1.4.2
+  php-cs-fixer v0.1.117
+  php-debug v1.13.0
+  php-docblocker v1.8.0
+  php-intellisense v2.3.10
+  php-namespace-resolver v1.1.7
+  php-pack v1.0.2
+  php-symbols v2.1.0
+  phpcs v1.0.5
+  prettier-vscode v1.8.1
+  quicktype v12.0.46
+  refactorix v0.3.6
+  sass-indented v1.5.1
+  search-node-modules v1.3.0
+  svn-scm v1.47.5
+  tortoise-svn-for-vscode v0.1.1
+  trumpsum v1.1.2
+  ts-extension-pack v0.2.0
+  tsimporter v1.2.14
+  tslint v1.0.43
+  twig-language-2 v0.6.2
+  typescript-code-navigator v1.2.4
+  typescript-hero v3.0.0
+  typescript-javascript-grammar v0.0.49
+  VS-code-drupal v0.0.12
+  vscode-angular2-files v1.6.2
+  vscode-apache v1.2.0
+  vscode-file-peek v1.0.1
+  vscode-generate-getter-setter v0.5.0
+  vscode-html-css v0.2.0
+  vscode-html-format v0.0.3
+  vscode-icons v8.3.0
+  vscode-language-pack-es v1.32.4
+  vscode-npm-script v0.3.5
+  vscode-npm-source v1.0.0
+  vscode-simpler-icons v1.6.5
+  vscode-todo-highlight v1.0.4
+  vscode-typescript-tslint-plugin v1.0.0
+  winteriscoming v0.9.0
+--------------------
+Done.
